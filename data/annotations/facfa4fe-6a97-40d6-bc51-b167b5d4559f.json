@@ -1,22 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 114,
-      "end_time": 123,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Margarita Teresa was between four and five years old when Velázquez painted Las Meninas."
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "3898d36d-17e0-47e2-ad53-670b5172e6bf"
-    }
-  ],
+  "annotations": [],
   "event_id": "20f4e912-6d69-47dd-8829-94a41e8c6e7d",
   "set": "Additional Information",
   "source_id": "f363ffbd-0067-4999-82e5-80623b3d6155"
