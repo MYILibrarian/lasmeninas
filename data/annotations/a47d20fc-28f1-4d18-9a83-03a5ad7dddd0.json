@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 17,
-      "end_time": 23,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Las Meninas, painted by Diego Velázques, can be found the Museo del Prado in Madrid, Spain"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "6d9188dc-d05b-4dff-affb-098d2f5ced5a"
-    },
-    {
       "start_time": 83,
       "end_time": 93,
       "annotation": [
