@@ -19,6 +19,22 @@
       ],
       "tags": [],
       "uuid": "d7b9d963-49f8-4b6a-a99d-7f6217bcdbec"
+    },
+    {
+      "start_time": 83,
+      "end_time": 93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4b661288-2169-455f-9cef-217c76921fa2"
     }
   ],
   "event_id": "20f4e912-6d69-47dd-8829-94a41e8c6e7d",
